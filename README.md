@@ -46,3 +46,6 @@ Let's deploy simple php application on Openshift cluster
 ![GitHub Logo](images/s8.png)
 
 
+
+## Step 8: Get into your newly created projejct ,next on top search for PHP
+![GitHub Logo](images/s9.png)
