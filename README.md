@@ -9,6 +9,8 @@ Let's deploy simple php application on Openshift cluster
 
 ![GitHub Logo](images/s1.png)
 
+
+
 ## Step 2: Get your Openshift cluster:
 [https://openshiftpakistan.mybluemix.net/](https://openshiftpakistan.mybluemix.net/)
 1. lab_Key:oslab
@@ -16,9 +18,12 @@ Let's deploy simple php application on Openshift cluster
 
 ![GitHub Logo](images/s2.png)
 
+
+
 ## Step 3: Please be sure to click: Prefill Cache button on the URL before submit
 
 ![GitHub Logo](images/s3.png)
+
 
 
 ## Step 4: You will see below image once you are successfully registered
