@@ -6,12 +6,12 @@ Let's deploy simple php application on Openshift cluster
 ### Step 1 : Sign-up for IBM Cloud Platform 
 Sign-up from [Here](http://ibm.biz/openshiftnic)
 
-![GitHub Logo](image/hi.png)
+![GitHub Logo](images/hi.png)
 Format: ![Alt Text](url)
 
 ### Step 2:
 Get your Openshift cluster: [Here](https://openshiftpakistan.mybluemix.net/)
 
-![GitHub Logo](image/s2.png)
+![GitHub Logo](images/s2.png)
 Format: ![Alt Text](url)
 
