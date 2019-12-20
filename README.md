@@ -5,7 +5,7 @@ Let's Deploy Hello world application on Openshift cluster
 
 ### Step 1 : Sign-up for IBM Cloud Platform 
 ibm.biz/openshiftnic - automatic!
-[GitHub](ibm.biz/openshiftnic)
+[Registration](http://ibm.biz/openshiftnic)
 
 ![GitHub Logo](/hi.png)
 Format: ![Alt Text](url)
