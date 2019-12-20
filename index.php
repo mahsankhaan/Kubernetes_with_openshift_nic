@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,14 +7,14 @@ body, html {
   height: 100%;
   margin: 0;
 }
-​
+
 .bg {
   /* The image used */
   background-image: url("main.jpg");
-​
+
   /* Full height */
   height: 100%; 
-​
+
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
@@ -24,11 +23,10 @@ body, html {
 </style>
 </head>
 <body>
-​
+
+<h><b>HELLO EVERYONE !</b></h>
 <div class="bg"></div>
-​
-<p>Welcome Everyone!</p>
-​
+
+
 </body>
 </html>
-​
