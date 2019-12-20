@@ -55,3 +55,8 @@ Let's deploy simple php application on Openshift cluster
 2. Git Repository: [https://github.com/mahsankhaan/Kubernetes_with_openshift_nic.git](https://github.com/mahsankhaan/Kubernetes_with_openshift_nic.git)
 
 ![GitHub Logo](images/s10.png)
+
+
+
+## Step 11: Select Build ,then log and check if image is successfully build
+![GitHub Logo](images/s11.png)
