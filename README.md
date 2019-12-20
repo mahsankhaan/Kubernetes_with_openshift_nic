@@ -19,3 +19,8 @@ Let's deploy simple php application on Openshift cluster
 ## Step 3: Please be sure to click: Prefill Cache button on the URL before submit
 
 ![GitHub Logo](images/s3.png)
+
+
+## Step 4: You will see below image once you are successfully registered
+
+![GitHub Logo](images/s4.jpeg)
