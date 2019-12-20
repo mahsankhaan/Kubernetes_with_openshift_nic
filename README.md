@@ -7,12 +7,10 @@ Let's deploy simple php application on Openshift cluster
 Sign-up from [Here](http://ibm.biz/openshiftnic)
 
 ![GitHub Logo](images/s1.png)
-Format: ![Alt Text](url)
 
-### Step 2:
-Get your Openshift cluster: [Here](https://openshiftpakistan.mybluemix.net/)
+### Step 2: Get your Openshift cluster:
+[https://openshiftpakistan.mybluemix.net/](https://openshiftpakistan.mybluemix.net/)
 1. lab_Key:oslab
 2. email:your ibm email 
 ![GitHub Logo](images/s2.png)
-Format: ![Alt Text](url)
 
