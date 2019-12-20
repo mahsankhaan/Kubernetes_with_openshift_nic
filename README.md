@@ -16,6 +16,6 @@ Let's deploy simple php application on Openshift cluster
 
 ![GitHub Logo](images/s2.png)
 
-## Step 3: Please be sure to click: Prefill Cache button on the URL before your lab
+## Step 3: Please be sure to click: Prefill Cache button on the URL before submit
 
 ![GitHub Logo](images/s3.png)
