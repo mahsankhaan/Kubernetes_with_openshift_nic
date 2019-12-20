@@ -58,5 +58,13 @@ Let's deploy simple php application on Openshift cluster
 
 
 
-## Step 11: Select Build ,then log and check if image is successfully build
+## Step 11: Select Build->log and check if image is successfully build
 ![GitHub Logo](images/s11.png)
+
+
+## Step 12: Select Application->services and then Hostname link
+![GitHub Logo](images/s12.png)
+
+
+## Step 13: Finally your application is running on Openshift
+![GitHub Logo](images/s13.png)
