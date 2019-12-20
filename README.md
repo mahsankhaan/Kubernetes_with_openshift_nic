@@ -8,3 +8,6 @@ Sign-up from [Here](http://ibm.biz/openshiftnic)
 
 ![GitHub Logo](/hi.png)
 Format: ![Alt Text](url)
+
+### Step 2:
+Get your Openshift cluster: [Here](https://openshiftpakistan.mybluemix.net/)
