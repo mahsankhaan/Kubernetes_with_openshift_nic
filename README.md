@@ -44,8 +44,8 @@ Let's deploy simple php application on Openshift cluster
 
 
 
-## Step 8: Get into your newly created project and next on top search for PHP Builder
-![GitHub Logo](images/s9.png)
+## Step 8: Get into your newly created project and select Catalog
+![GitHub Logo](images/s90.png)
 
 ## Step 9: In Configuration
 1. Application name : phpapp
