@@ -53,21 +53,21 @@ Let's deploy simple php application on Openshift cluster
 ![GitHub Logo](images/s100.png)
 
 
-## Step 9: In Configuration
+## Step 10: In Configuration
 1. Application name : phpapp
-2. Git Repository: [https://github.com/mahsankhaan/Kubernetes_with_openshift_nic.git](https://github.com/mahsankhaan/Kubernetes_with_openshift_nic.git)
+2. Git Repository: [https://github.com/mahsankhaan/Kubernetes_with_openshift_nic.git](https://github.com/mahsankhaan/Kubernetes_with_openshift_nic.git) 
 
 ![GitHub Logo](images/s10.png)
 
 
 
-## Step 10: Select Build->log and check if image is successfully build
+## Step 11: Select Build->log and check if image is successfully build
 ![GitHub Logo](images/s11.png)
 
 
-## Step 11: Select Application->services and then Hostname link
+## Step 12: Select Application->services and then Hostname link
 ![GitHub Logo](images/s12.png)
 
 
-## Step 12: Finally your application is running on Openshift
+## Step 13: Finally your application is running on Openshift
 ![GitHub Logo](images/s13.png)
