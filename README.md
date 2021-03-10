@@ -28,7 +28,7 @@ Let's deploy simple php application on Openshift cluster
 
 ## Step 4: You will see below image once you are successfully registered
 
-![GitHub Logo](images/s4.jpeg)
+![GitHub Logo](images/s4.png)
 
 
 ## Step 5: Login into your IBM account and you will able to see external account then select it
