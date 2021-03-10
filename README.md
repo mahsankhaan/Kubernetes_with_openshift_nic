@@ -33,7 +33,7 @@ Let's deploy simple php application on Openshift cluster
 ![GitHub Logo](images/s6.jpeg)
 
 ## Step 6: Select the cluster and open web console
-![GitHub Logo](images/s7.jpeg)
+![GitHub Logo](images/s7.png)
 
 
 ## Step 7: On web console you will able to see openshift dashboard ,next select create project
