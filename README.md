@@ -57,7 +57,7 @@ Let's deploy simple php application on Openshift cluster
 1. Application name : phpapp
 2. Git Repository: [https://github.com/mahsankhaan/Kubernetes_with_openshift_nic.git](https://github.com/mahsankhaan/Kubernetes_with_openshift_nic.git) 
 
-![GitHub Logo](images/s10.png)
+![GitHub Logo](images/s200.png)
 
 
 
