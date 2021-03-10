@@ -61,8 +61,11 @@ Let's deploy simple php application on Openshift cluster
 
 
 
-## Step 11: Select Build->log and check if image is successfully build
-![GitHub Logo](images/s11.png)
+## Step 11: Check Build process (Optional)
+1. Select Builds from left menu
+1. Select the build __phpapp__
+1. Under Builds,select -> __phpapp-1__  -> logs
+![GitHub Logo](images/s110.png)
 
 
 ## Step 12: Select Application->services and then Hostname link
