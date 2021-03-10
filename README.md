@@ -20,7 +20,7 @@ Let's deploy simple php application on Openshift cluster
 
 
 
-## Step 3: You will see below image once you are successfully registered
+## Step 3: You will see below image once successfully registered
 
 ![GitHub Logo](images/s4.png)
 
@@ -44,7 +44,7 @@ Let's deploy simple php application on Openshift cluster
 
 
 
-## Step 8: Get into your newly created project and select Catalog
+## Step 8: Get into newly created project and select Catalog
 ![GitHub Logo](images/s90.png)
 
 
@@ -74,5 +74,5 @@ Let's deploy simple php application on Openshift cluster
 ![GitHub Logo](images/s120.png)
 
 
-## Step 13: Finally your application is running on Openshift
+## Step 13: Finally application is running on Openshift
 ![GitHub Logo](images/s13.png)
