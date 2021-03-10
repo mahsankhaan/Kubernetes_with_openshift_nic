@@ -47,6 +47,12 @@ Let's deploy simple php application on Openshift cluster
 ## Step 8: Get into your newly created project and select Catalog
 ![GitHub Logo](images/s90.png)
 
+
+## Step 9: Search for php and select PHP builder image
+
+![GitHub Logo](images/s100.png)
+
+
 ## Step 9: In Configuration
 1. Application name : phpapp
 2. Git Repository: [https://github.com/mahsankhaan/Kubernetes_with_openshift_nic.git](https://github.com/mahsankhaan/Kubernetes_with_openshift_nic.git)
