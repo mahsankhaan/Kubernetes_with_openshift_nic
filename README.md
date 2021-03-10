@@ -30,7 +30,7 @@ Let's deploy simple php application on Openshift cluster
 ![GitHub Logo](images/s5.jpeg)
 
 ## Step 5 : Go to resources and the see your cluster must be there
-![GitHub Logo](images/s60.jpeg)
+![GitHub Logo](images/s60.png)
 
 ## Step 6: Select the cluster and open web console
 ![GitHub Logo](images/s7.png)
