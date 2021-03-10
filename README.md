@@ -68,8 +68,10 @@ Let's deploy simple php application on Openshift cluster
 ![GitHub Logo](images/s110.png)
 
 
-## Step 12: Select Application->services and then Hostname link
-![GitHub Logo](images/s12.png)
+## Step 12: Access the application
+1. Select __Topology__
+
+![GitHub Logo](images/s120.png)
 
 
 ## Step 13: Finally your application is running on Openshift
