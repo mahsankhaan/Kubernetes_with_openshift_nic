@@ -11,7 +11,7 @@ Let's deploy simple php application on Openshift cluster
 
 
 
-## Step 2: Get your Openshift cluster:
+## Step 2: Get RedHat OpenShift cluster:
 [https://openshiftlab.mybluemix.net]( https://openshiftlab.mybluemix.net)
 1. lab_Key:oslab
 2. IBM_id: your email 
