@@ -37,6 +37,9 @@ Let's deploy simple php application on Openshift cluster
 
 
 ## Step 7: On web console you will able to see openshift dashboard ,next select create project
+
+### NOTE: Make sure you are under Developer mode
+
 ![GitHub Logo](images/s80.png)
 
 
