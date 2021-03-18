@@ -1,4 +1,4 @@
-# Kubernetes_with_openshift@NIC
+# Kubernetes_with_openshift
 Let's deploy simple php application on Openshift cluster
 
 ## Follow these steps:
